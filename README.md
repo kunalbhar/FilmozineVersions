@@ -1,3 +1,3 @@
 # FilmozineVersions
-Chnagelogs
+Changelog
 <unavailable>
